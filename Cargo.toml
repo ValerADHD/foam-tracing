@@ -12,5 +12,3 @@ pollster = "0.4.0"
 cgmath = "0.18.0"
 bytemuck = { version = "1.12", features = [ "derive" ]}
 rand = "0.9.0"
-meshless_voronoi = { version = "0.7.2", features = [ "rayon" ]}
-glam = "0.27.0"
